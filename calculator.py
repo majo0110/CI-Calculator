@@ -2,6 +2,7 @@
 Calculator App using circle ci
 """
 
+
 def add(a, b):
     return a + b
 
